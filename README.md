@@ -17,5 +17,5 @@ Durante o desenvolvimento entendi como é feito a alternância entre tema claro 
 ### Linguagens utilizadas
 
 <p>
-Neste projeto, eu utilizei o TaileindCSS como framework de estilização, na versão 3.4.17, assim consegui utilizar ele puro, sem algum outro framework acoplado, o JavaScript para as ações, como no menu drop-down e a alteração de tema, e o CSS puro para personalizar o tema escuro.
+Neste projeto, eu utilizei o TailwindCSS como framework de estilização, na versão 3.4.17, assim consegui utilizar ele puro, sem algum outro framework acoplado, o JavaScript para as ações, como no menu drop-down e a alteração de tema, e o CSS puro para personalizar o tema escuro.
 </p>
