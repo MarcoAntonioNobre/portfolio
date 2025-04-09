@@ -1,4 +1,4 @@
-# bem-vindo ao meu portfólio
+# Bem-vindo ao meu portfólio
 
 ### Sobre o projeto
 
@@ -14,6 +14,8 @@ Minha intenção inicial era deixar esse projeto online já com um Back-End simp
 Durante o desenvolvimento entendi como é feito a alternância entre tema claro e escuro, além de desenvolver melhor meus conhecimentos no framework TaileindCSS.
 </p>
 
+### Linguagens utilizadas
+
 <p>
-Neste projeto,eu utilizei o TaileindCSS como framework de estilização, JavaScript para as ações, como no menu drop-down e a alteração de tema, e o CSS puro para personalizar o tem escuro.
+Neste projeto,eu utilizei o TaileindCSS como framework de estilização, na versão 3.4.17, assim consegui utilizar ele puro, sem algum outro framework acoplado, JavaScript para as ações, como no menu drop-down e a alteração de tema, e o CSS puro para personalizar o tema escuro.
 </p>
