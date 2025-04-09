@@ -3,7 +3,7 @@
 ### Sobre o projeto
 
 <p>
-Desenvolvi esse portfólio para mostrar um pouco do que sei, e me apresentar a vocês de maneira simples. Acredito que um portfólio, mesmo que básico, agrega muito a um programador de qualquer stack.
+Desenvolvi esse meu novo portfólio, e através dele, me apresentar a vocês de maneira simples. Acredito que um portfólio, mesmo que básico, agrega muito a um programador de qualquer stack.
 </p>
 
 <p>
@@ -17,5 +17,5 @@ Durante o desenvolvimento entendi como é feito a alternância entre tema claro 
 ### Linguagens utilizadas
 
 <p>
-Neste projeto,eu utilizei o TaileindCSS como framework de estilização, na versão 3.4.17, assim consegui utilizar ele puro, sem algum outro framework acoplado, JavaScript para as ações, como no menu drop-down e a alteração de tema, e o CSS puro para personalizar o tema escuro.
+Neste projeto, eu utilizei o TaileindCSS como framework de estilização, na versão 3.4.17, assim consegui utilizar ele puro, sem algum outro framework acoplado, o JavaScript para as ações, como no menu drop-down e a alteração de tema, e o CSS puro para personalizar o tema escuro.
 </p>
