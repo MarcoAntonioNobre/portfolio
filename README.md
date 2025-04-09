@@ -1,3 +1,5 @@
-# Portfolio
+# Meu Portfólio
 
-Front-end do meu portfólio
+## TailwindCSS
+
+<p>Versão do TailwindCSS: <span>3.4.17</span></p>
